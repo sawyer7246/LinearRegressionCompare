@@ -1,5 +1,5 @@
 # LinearRegressionCompare
-Implement and compare 5 different linear regression methods 
+Implement and compare 5 different linear regression methods. 
 * Least-squares (LS)
 * Regularized LS (RLS)
 * L1-regularized LS (LASSO)
@@ -16,3 +16,7 @@ Implement and compare 5 different linear regression methods
     5. plotFitOfHighOrderData()
     6. testFitOfHighOrderData()
 ### predictPeopleCount()
+	An application of regression
+	
+###One more thing
+> This is an assignment of my ML course, and those train and test data come from this class,so you may not allow to use it for business purpose.
