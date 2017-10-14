@@ -18,5 +18,5 @@ Implement and compare 5 different linear regression methods.
 ### predictPeopleCount()
 	An application of regression
 	
-###One more thing
+### One more thing
 > This is an assignment of my ML course, and those train and test data come from this class,so you may not allow to use it for business purpose.
