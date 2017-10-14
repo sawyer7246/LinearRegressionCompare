@@ -1,10 +1,10 @@
 # LinearRegressionCompare
 Implement and compare 5 different linear regression methods 
-1. least-squares (LS)
-2. regularized LS (RLS)
-3. L1-regularized LS (LASSO)
-4. robust regression (RR)
-5. Bayesian regression (BR)
+	1. least-squares (LS)
+	2. regularized LS (RLS)
+	3. L1-regularized LS (LASSO)
+	4. robust regression (RR)
+	5. Bayesian regression (BR)
 
 ## There are several methods in the main() for different usage.
 
