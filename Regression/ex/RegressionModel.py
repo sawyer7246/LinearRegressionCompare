@@ -6,7 +6,7 @@ Created on Oct 7, 2017
 
 Super Class of different regression model
 
-@author: Li Yulong 54927068
+@author: Li Yulong
 '''
 import logging
 import random
